@@ -2,7 +2,6 @@
 
 <!--
 **KESHARINANDANPRATAP/KESHARINANDANPRATAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="keshari-nandan-pratap-6239a2175"><a class="LI-simple-link" href='https://in.linkedin.com/in/keshari-nandan-pratap-6239a2175?trk=profile-badge'>KESHARI NANDAN PRATAP</a></div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
