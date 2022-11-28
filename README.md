@@ -1,7 +1,7 @@
 ### Hi there 👋
 𝗜'𝗺 𝗞𝗲𝘀𝗵𝗮𝗿𝗶 𝗡𝗮𝗻𝗱𝗮𝗻 𝗣𝗿𝗮𝘁𝗮𝗽 . 
 
-• CS Graduate From Government College of Engineering Keonjhar.
+• CS Graduate From Government College of Engineering Keonjhar.<br>
 • Loves to try out new tools & technologies, and how they are useful in business use-cases
 • Familiar with ECMAScript | ERP | CRM | OOPS | SAP | Java | Python | SQL | ORM | Linux .
 • Interested in Site reliability engineering.
