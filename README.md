@@ -3,7 +3,7 @@
 
 • CS Graduate From Government College of Engineering Keonjhar.<br>
 • Loves to try out new tools & technologies, and how they are useful in business use-cases. <br>
-• Familiar with ECMAScript | ERP | CRM | OOPS | SAP | Java | Python | SQL | ORM | Linux . <br>
+• Familiar with ECMAScript | Functional Programming | ERP | CRM | OOPS | SAP | Java | Python | SQL | ORM | Linux . <br>
 • Interested in Site reliability engineering. <br>
 
 Profile IDs:
