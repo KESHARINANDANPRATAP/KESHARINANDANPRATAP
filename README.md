@@ -9,8 +9,8 @@
 Profile IDs:
 
 LeetCode: Keshari_Nandan_Pratap <br>
-Linkedin- keshari-nandan-pratap-6239a2175 <br>
-Twitter-  @keshri_pratap <br>
+Linkedin: keshari-nandan-pratap-6239a2175 <br>
+Twitter:  @keshri_pratap <br>
 
 <!--
 **KESHARINANDANPRATAP/KESHARINANDANPRATAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
