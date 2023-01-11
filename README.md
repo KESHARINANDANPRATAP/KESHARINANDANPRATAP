@@ -2,8 +2,6 @@
 𝗜'𝗺 𝗞𝗲𝘀𝗵𝗮𝗿𝗶 𝗡𝗮𝗻𝗱𝗮𝗻 𝗣𝗿𝗮𝘁𝗮𝗽 . 
 
 
-I am a recent computer science graduate with a strong background in both theoretical and practical aspects of the field. Through my education and experiences, I have developed a diverse set of skills and a passion for solving complex problems using technology.On my portfolio, you will find a range of projects that demonstrate my abilities in various areas of computer science, such as software development, machine learning, and data analysis. Each project includes a detailed description, screenshots and relevant code snippets.
-
 • CS Graduate From Government College of Engineering Keonjhar.<br>
 • Loves to try out new tools & technologies, and how they are useful in business use-cases. <br>
 • Familiar with ECMAScript | Functional Programming | ERP | CRM | OOPS | SAP | Java | Python | SQL | ORM | Linux . <br>
